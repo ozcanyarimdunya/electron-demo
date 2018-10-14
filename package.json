@@ -1,0 +1,23 @@
+{
+  "name": "spor-ekrani",
+  "version": "1.0.0",
+  "description": "Spor Ekrani",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": "https://github.com/ozcanyarimdunya/electron-demo",
+  "keywords": [
+    "Electron",
+    "demo",
+    "tutorial"
+  ],
+  "author": "ozcanyarimdunya",
+  "devDependencies": {
+    "electron": "^3.0.0"
+  },
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.2",
+    "sweetalert": "^2.1.0"
+  }
+}
